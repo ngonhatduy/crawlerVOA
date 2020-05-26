@@ -1,0 +1,17 @@
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.exe
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csprojAssemblyReference.cache
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfoInputs.cache
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfo.cs
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csproj.CopyComplete
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.deps.json
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.runtimeconfig.json
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.runtimeconfig.dev.json
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.dll
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.pdb
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.dll
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.pdb
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.genruntimeconfig.cache
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Duy.Ngo\source\repos\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csproj.CoreCompileInputs.cache
