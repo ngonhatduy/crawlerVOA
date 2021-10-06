@@ -8,5 +8,7 @@ namespace Crawler
     {
         public string Link { get; set; }
         public string Title { get; set; }
+
+        //Add feature 1
     }
 }
