@@ -20,7 +20,7 @@ namespace Crawler
         }
 
         //Add from master
-
+        //Hot fix
         public static async Task startCrawler()
         {
             //set url to crawler
